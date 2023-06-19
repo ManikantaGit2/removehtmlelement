@@ -1,0 +1,30 @@
+.main {
+    height: 300px;
+    width: 700px;
+    background-color: darkgoldenrod;
+    padding:30px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.button {
+    height: 40px;
+    width: 70px;
+    background-color: rgb(47, 47, 122);
+    color: white;
+    border-radius: 5px;
+    border-color: darkgoldenrod;
+    border-style: solid;
+}
+.user-input {
+    height: 30px;
+    width: 190px;
+    border-radius: 4px;
+    border-color: darkgoldenrod;
+    border-style: solid;
+    margin-top: 70px;
+    margin-left: 150px;
+}
+.heading {
+    text-align: center;
+    color: floralwhite;
+}

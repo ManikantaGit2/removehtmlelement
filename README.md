@@ -1,0 +1,1 @@
+    Remove Item in Local Storage Practice
